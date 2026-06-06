@@ -12,20 +12,22 @@ Instagram for followed accounts — feed, stories, and DMs. No explore, reels, o
 
 ## Installation
 
-Download the latest release from [Releases](https://github.com/Samlam00/insta_messages/releases/tag/v1.0.0), extract the zip, and run `Insta Messages.exe`.
+Download the latest release from [Releases](https://github.com/Samlam00/insta_messages/releases/tag/v1.0.0), extract the zip, and run `Insta Messages.exe`. No installation required.
 
-## Running from source
+## Development
+
+To run or modify the app from source:
 
 ```bash
 npm install
 npm start
 ```
 
-## Building
+To build a distributable zip:
 
 ```bash
 npm install --save-dev electron-builder
 npm run build
 ```
 
-This creates a distributable zip file in `dist/`.
+This creates a zip file in `dist/` that can be shared or uploaded as a release.
