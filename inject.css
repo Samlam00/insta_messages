@@ -1,0 +1,7 @@
+a:has(svg[aria-label="Reels"]),
+a:has(svg[aria-label*="Reel"]),
+a[href="/reels/"],
+a[href^="/reels/"],
+div[role="link"]:has(svg[aria-label*="Reel"]) {
+  display: none !important;
+}
