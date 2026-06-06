@@ -12,7 +12,7 @@ Instagram for followed accounts — feed, stories, and DMs. No explore, reels, o
 
 ## Installation
 
-Download the latest release from [Releases](https://github.com/Samlam00/insta-messages/releases), extract the zip, and run `Insta Messages.exe`.
+Download the latest release from [Releases](https://github.com/Samlam00/insta_messages/releases/tag/v1.0.0), extract the zip, and run `Insta Messages.exe`.
 
 ## Running from source
 
