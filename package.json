@@ -1,6 +1,6 @@
 {
   "name": "monkeygram",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Instagram for followed accounts — feed, stories, and DMs. No explore, reels, or profiles.",
   "main": "main.js",
   "author": "Samuel Elam",
