@@ -1,4 +1,4 @@
-# Insta Messages
+# Monkeygram
 
 Instagram for followed accounts — feed, stories, and DMs. No explore, reels, or profiles.
 
@@ -12,7 +12,7 @@ Instagram for followed accounts — feed, stories, and DMs. No explore, reels, o
 
 ## Installation
 
-Download the latest release from [Releases](https://github.com/Samlam00/insta_messages/releases/tag/v1.0.0), extract the zip, and run `Insta Messages.exe`. No installation required.
+Download the latest release from [Releases](https://github.com/Samlam00/monkeygram/releases/tag/v1.0.0), extract the zip, and run `Monkeygram.exe`. No installation required.
 
 ## Development
 

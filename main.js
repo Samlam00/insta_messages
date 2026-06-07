@@ -13,7 +13,7 @@ function createWindow() {
   const win = new BrowserWindow({
     width: 1100,
     height: 800,
-    title: 'Instagram',
+    title: 'Monkeygram',
     autoHideMenuBar: true,
     webPreferences: {
       partition: 'persist:instagram',
